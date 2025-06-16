@@ -1,0 +1,15 @@
+[{
+  "_id": {
+    "$oid": "6850ab1f247f79980f2cafa1"
+  },
+  "post_id": {
+    "$oid": "6850a922247f79980f2caf96"
+  },
+  "author_id": {
+    "$oid": "6850a3f3247f79980f2caf91"
+  },
+  "contenido": "Para el precio prefieron una PS5.",
+  "creacion": {
+    "$date": "2023-01-15T13:00:00.000Z"
+  }
+}]

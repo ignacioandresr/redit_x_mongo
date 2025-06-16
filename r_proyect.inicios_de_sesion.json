@@ -1,0 +1,15 @@
+[{
+  "_id": {
+    "$oid": "6850add8247f79980f2cafad"
+  },
+  "usuario_id": {
+    "$oid": "6850a3f3247f79980f2caf91"
+  },
+  "autenticacion": "xHWGPkOsRbMiQ2uwUcD3hJM1ZhmydlwDFdH72xLKr0Fxpipu8yhfW8AiJTzxFlBA",
+  "fecha_inicio": {
+    "$date": "2024-10-18T00:00:00.000Z"
+  },
+  "fecha_expiracion": {
+    "$date": "2024-10-18T00:00:00.000Z"
+  }
+}]

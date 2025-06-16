@@ -1,0 +1,21 @@
+[{
+  "_id": {
+    "$oid": "6850a922247f79980f2caf96"
+  },
+  "titulo": "¿Qué opinan de la nueva Nintendo Switch 2?",
+  "contenido": "Para el precio no vale para nada la pena.",
+  "autor_id": {
+    "$oid": "6850a3f3247f79980f2caf91"
+  },
+  "creacion": {
+    "$date": "2023-01-10T00:00:00.000Z"
+  },
+  "comentarios": [],
+  "votos_arriba": 15,
+  "votos_abajo": 6,
+  "tags": [
+    "videojuegos",
+    "consolas"
+  ],
+  "categorias": "videojuegos"
+}]
