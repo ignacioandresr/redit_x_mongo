@@ -1,0 +1,19 @@
+🔁 Acciones (CRUD + Interacción)
+Acción	Colección involucrada	Método
+Consultar página principal	posts, subreddits	db.posts.find()
+Ver un post y comentarios	posts, comments	db.comments.find({post_id})
+Crear un post	posts	db.posts.insertOne()
+Comentar un post	comments	db.comments.insertOne()
+Editar perfil	users	db.users.updateOne()
+Eliminar post	posts	db.posts.deleteOne()
+Eliminar usuario + datos	users, posts, comments	Varios deleteMany()
+Login	sessions	db.sessions.insertOne()
+
+🧠 Interacción paso a paso (modelo de flujo en base de datos)
+Usuario inicia sesión → sessions.insertOne()
+
+Se carga página principal → posts.find()
+
+Usuario hace clic en post → posts.findOne(), comments.find()
+
+Responde al post → comments.insertOne()
