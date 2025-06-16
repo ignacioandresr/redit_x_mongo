@@ -1,0 +1,13 @@
+[{
+  "_id": {
+    "$oid": "6850abff247f79980f2cafa7"
+  },
+  "nombre": "videojuegos",
+  "descripcion": "Todo sobre videojuegos.",
+  "creado_por": {
+    "$oid": "6850a3f3247f79980f2caf91"
+  },
+  "creacion": {
+    "$date": "2022-12-07T00:00:00.000Z"
+  }
+}]
