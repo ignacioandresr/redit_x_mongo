@@ -7,10 +7,12 @@
   "contrasenha_cifrada": "0bba8248da52517895df7d3a44bcc65e",
   "perfil": {
     "biografia": "Videojuegos y música",
-    "imagen_perfil_url": "https://i.pinimg.com/474x/55/1f/ff/551fff636303fb8a696c213736ddc09e.jpg"
-  },
-  "creacion": {
-    "$date": "2022-04-15T00:00:00.000Z"
+    "imagen_perfil_url": "https://i.pinimg.com/474x/55/1f/ff/551fff636303fb8a696c213736ddc09e.jpg",
+    "dia_tarta": {
+      "$date": "2022-04-15T00:00:00.000Z"
+    },
+    "karma_publicacion": 15,
+    "karma_comentario": 100
   },
   "rol": "user"
 }]
