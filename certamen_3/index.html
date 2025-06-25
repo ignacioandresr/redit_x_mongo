@@ -15,7 +15,7 @@
         <div class="row" id="alumno-list">
 
         </div>
-        
+        <img src="" height="" alt="">
     </div>
     <script>
         async function obtenerListadoAlumnos(){
@@ -29,7 +29,9 @@
                 const col = document.createElement('div');
                 col.className ='col-6 col-md-4 col-lg-3 col-xs-2 mb-2'
                 col.innerHTML = `<div class="card my-2" style="width: 18rem;">
-                <img src="${alumno.foto}" class="card-img-top" alt="...">
+                <div class="">
+                    <img src="${alumno.foto}" class="w-100" alt="" height="300">
+                </div>
                 <div class="card-body">
                   <h5 class="card-title">${alumno.nombre} ${alumno.apellido}</h5>
                   <h6> <b> RUT: </b> <span>${alumno.rut}</span> </h6>
