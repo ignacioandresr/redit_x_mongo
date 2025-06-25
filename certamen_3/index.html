@@ -26,10 +26,10 @@
             alumnos.sort((a,b)=>a.nombre.localeCompare(b.nombre));
             alumnos.forEach((alumno,index)=> {
                 const col = document.createElement('div');
-                col.className ='col-md-6 col-lg-4 col-xs-12 mb-2'
+                col.className ='col-md-6 col-lg-3 col-xs-12 mb-2'
                 col.innerHTML = `
-                <div class="card my-2 shadow bg-body-tertiary rounded" style="width: 18rem;">
-                    <img src="${alumno.foto}" class="w-100 rounded" alt="..." height="300">
+                <div class="card my-2 shadow bg-body-tertiary rounded h-100" style="">
+                    <img src="${alumno.foto}" class="w-100 rounded" alt="" height="300">
                     <div class="card-body">
                         <h5 class="card-title pb-2"><b>${alumno.nombre} ${alumno.apellido}</b></h5>
                         <h6> <b> RUT: </b> <span>${alumno.rut}</span> </h6>
