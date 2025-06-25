@@ -24,7 +24,7 @@
         "telefono": 987654654,
         "email": "ricarditohola@gmail.com",
         "nacionalidad": "Chileno",
-        "foto": "fotos/hombre2.jpg",
+        "foto": "fotos/ricardo1.webp",
         "profesion": null
     },
     {
@@ -80,7 +80,7 @@
         "telefono": 312454,
         "email": " asd",
         "nacionalidad": "Chileno",
-        "foto": "fotos/hombre.jpg",
+        "foto": "fotos/samuel1.webp",
         "profesion": null
     },
     {
@@ -94,7 +94,7 @@
         "telefono": 927364854,
         "email": "jromero@gmail.com",
         "nacionalidad":"Chileno",
-        "foto": "fotos/mujer2.webp",
+        "foto": "fotos/hombre.jpg",
         "profesion": null
     },
     {
@@ -108,7 +108,7 @@
         "telefono": 312454,
         "email": "cdelgado@gmail.com",
         "nacionalidad": "Peruano",
-        "foto": "fotos/hombre.jpg",
+        "foto": "fotos/johnpork.webp",
         "profesion": null
     },
     {
