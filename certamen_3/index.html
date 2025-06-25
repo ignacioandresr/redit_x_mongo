@@ -8,7 +8,7 @@
 </head>
 <body>
     <div class="container">
-        <h1 class="text-center py-3">Listado de Alumnos</h1>
+        <h1 class="text-center">Listado de Alumnos</h1>
         <div id="loading">
             Cargando...
         </div>
@@ -27,22 +27,21 @@
             alumnos.sort((a,b)=>a.nombre.localeCompare(b.nombre));
             alumnos.forEach((alumno,index)=> {
                 const col = document.createElement('div');
-                col.className ='col-6 col-md-4 col-lg-3 mb-2'
-                col.innerHTML = `<div class="card" style="width: 18rem;">
-                <img src="" class="card-img-top" alt="...">
-                <a>${alumno.foto}</a>
+                col.className ='col-6 col-md-4 col-lg-3 col-xs-2 mb-2'
+                col.innerHTML = `<div class="card my-2" style="width: 18rem;">
+                <img src="..." class="card-img-top" alt="...">
                 <div class="card-body">
-                <h5 class="card-title">${alumno.nombre} ${alumno.apellido}</h5>
-                <p> <b> RUT: </b> ${alumno.rut} </p>
-                <p> <b> Fecha de Nacimiento: </b> ${alumno.fecha_nacimiento} </p>
-                <p> <b> Género: </b> ${alumno.genero} </p>
-                <p> <b> Dirección: </b> ${alumno.direccion} </p>
-                <p> <b> Comuna: </b> ${alumno.comuna} </p>
-                <p> <b> Teléfono: </b> ${alumno.telefono} </p>
-                <p> <b> Email: </b> ${alumno.email} </p>
-                <p> <b> Nacionalidad: </b> ${alumno.nacionalidad} </p>
-              </div>
-    </div>`
+                  <h5 class="card-title">${alumno.nombre}</h5>
+                  <p> <b> RUT: </b> ${alumno.rut} </p>
+                  <p> <b> Fecha de Nacimiento: </b> ${alumno.fecha_nacimiento} </p>
+                  <p> <b> Género: </b> ${alumno.genero} </p>
+                  <p> <b> Dirección: </b> ${alumno.direccion} </p>
+                  <p> <b> Comuna: </b> ${alumno.comuna} </p>
+                  <p> <b> Teléfono: </b> ${alumno.telefono} </p>
+                  <p> <b> Email: </b> ${alumno.email} </p>
+                  <p> <b> nacionalidad: </b> ${alumno.nacionalidad} </p>
+                </div>
+              </div>`
                 listContainer.appendChild(col);
             }
 
@@ -51,22 +50,7 @@
             
         }
     }
-        async function mostrarDetalles(alumno) {
-            const modal= new bootstrap.Modal(document.getElementById('alumnoModal'));
-            const modalBody= document.getElementById('modal-content');
-            document.getElementById('alumnoModalLabel').textContent=`${alumno.nombre} ${alumno.apellido}`;
-            modalBody.innerHTML=`
-                <p><strong>RUT</strong>: ${alumno.rut} </p>
-                <p><strong>Fecha nacimiento</strong>: ${alumno.fecha_nacimiento} </p>
-                <p><strong>Género</strong>: ${alumno.genero} </p>
-                <p><strong>Dirección</strong>: ${alumno.direccion} </p>
-                <p><strong>Comuna</strong>: ${alumno.comuna} </p>
-            
-            
-            `;
-            modal.show();
-            
-        }
+        
         obtenerListadoAlumnos();
     </script>
     <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.6/dist/js/bootstrap.bundle.min.js" integrity="sha384-j1CDi7MgGQ12Z7Qab0qlWQ/Qqz24Gc6BM0thvEMVjHnfYGF0rmFCozFSxQBxwHKO" crossorigin="anonymous"></script>
