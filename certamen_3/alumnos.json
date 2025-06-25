@@ -8,8 +8,9 @@
         "direccion":"Calle Falsa 123",
         "comuna":"Santiago",
         "telefono": 312454,
-        "email": " asd",
-        "nacionalidad": "Chileno"
+        "email": "asd",
+        "nacionalidad": "Chileno",
+        "foto": "fotos/mujer"
     },
     {
         "rut":"22.423.466-3",

@@ -8,7 +8,7 @@
 </head>
 <body>
     <div class="container">
-        <h1>Listado de Alumnos</h1>
+        <h1 class="text-center py-3">Listado de Alumnos</h1>
         <div id="loading">
             Cargando...
         </div>
@@ -29,9 +29,10 @@
                 const col = document.createElement('div');
                 col.className ='col-6 col-md-4 col-lg-3 mb-2'
                 col.innerHTML = `<div class="card" style="width: 18rem;">
-                <img src="..." class="card-img-top" alt="...">
+                <img src="" class="card-img-top" alt="...">
+                <a>${alumno.foto}</a>
                 <div class="card-body">
-                <h5 class="card-title">${alumno.nombre}</h5>
+                <h5 class="card-title">${alumno.nombre} ${alumno.apellido}</h5>
                 <p> <b> RUT: </b> ${alumno.rut} </p>
                 <p> <b> Fecha de Nacimiento: </b> ${alumno.fecha_nacimiento} </p>
                 <p> <b> Género: </b> ${alumno.genero} </p>
@@ -39,7 +40,7 @@
                 <p> <b> Comuna: </b> ${alumno.comuna} </p>
                 <p> <b> Teléfono: </b> ${alumno.telefono} </p>
                 <p> <b> Email: </b> ${alumno.email} </p>
-                <p> <b> nacionalidad: </b> ${alumno.nacionalidad} </p>
+                <p> <b> Nacionalidad: </b> ${alumno.nacionalidad} </p>
               </div>
     </div>`
                 listContainer.appendChild(col);
