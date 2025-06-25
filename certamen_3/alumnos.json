@@ -9,7 +9,7 @@
         "comuna":"Santiago",
         "telefono": 987238432,
         "email": "carlitoelpro777@gmail.com",
-        "nacionalidad": "Chileno",
+        "nacionalidad": "Chilena",
         "foto": "fotos/carlos.jpg",
         "profesion": null
     },
@@ -23,7 +23,7 @@
         "comuna":"Hualpen",
         "telefono": 987654654,
         "email": "ricarditohola@gmail.com",
-        "nacionalidad": "Chileno",
+        "nacionalidad": "Chilena",
         "foto": "fotos/ricardo1.webp",
         "profesion": null
     },
@@ -37,7 +37,7 @@
         "comuna":"Concepción",
         "telefono": 312454,
         "email": "pduran1250@gmail.com",
-        "nacionalidad": "Chileno",
+        "nacionalidad": "Chilena",
         "foto": "fotos/hombre3.jpg",
         "profesion": null
     },
@@ -52,7 +52,7 @@
         "telefono": 312454,
         "email": "fmunoz@gmail.com",
         "nacionalidad": "Chilena",
-        "foto": "fotos/mujer.png",
+        "foto": "fotos/mujer3.webp",
         "profesion": null
     },
     {
@@ -79,7 +79,7 @@
         "comuna":"Chiguayante",
         "telefono": 312454,
         "email": " asd",
-        "nacionalidad": "Chileno",
+        "nacionalidad": "Chilena",
         "foto": "fotos/samuel1.webp",
         "profesion": null
     },
@@ -93,7 +93,7 @@
         "comuna":"Concepción",
         "telefono": 927364854,
         "email": "jromero@gmail.com",
-        "nacionalidad":"Chileno",
+        "nacionalidad":"Chilena",
         "foto": "fotos/hombre.jpg",
         "profesion": null
     },
@@ -122,7 +122,7 @@
         "telefono": 924852734,
         "email": "martinams2000@gmail.com",
         "nacionalidad": "Argentina",
-        "foto": "fotos/mujer2.webp",
+        "foto": "fotos/mujer4.webp",
         "profesion": null
     },
     {
@@ -135,8 +135,8 @@
         "comuna":"Chiguayante",
         "telefono": 312454,
         "email": " asd",
-        "nacionalidad": "Chileno",
-        "foto": "fotos/mujer2.webp",
+        "nacionalidad": "Chilena",
+        "foto": "fotos/mujer5.webp",
         "profesion": null
     },
     {
@@ -149,7 +149,7 @@
         "comuna":"Chiguayante",
         "telefono": 312454,
         "email": " asd",
-        "nacionalidad": "Chileno",
+        "nacionalidad": "Chilena",
         "foto": "fotos/mujer2.webp",
         "profesion": null
     },
@@ -163,7 +163,7 @@
         "comuna":"Chiguayante",
         "telefono": 312454,
         "email": " asd",
-        "nacionalidad": "Chileno",
+        "nacionalidad": "Chilena",
         "foto": "fotos/mujer2.webp",
         "profesion": null
     },
@@ -177,8 +177,8 @@
         "comuna":"Chiguayante",
         "telefono": 312454,
         "email": " asd",
-        "nacionalidad": "Chileno",
-        "foto": "fotos/mujer2.webp",
+        "nacionalidad": "Chilena",
+        "foto": "fotos/lamujer5.webp",
         "profesion": null
     },
     {
@@ -191,8 +191,8 @@
         "comuna":"Chiguayante",
         "telefono": 312454,
         "email": " asd",
-        "nacionalidad": "Chileno",
-        "foto": "fotos/mujer2.webp",
+        "nacionalidad": "Chilena",
+        "foto": "fotos/lamujer4.webp",
         "profesion": null
     },
     {
@@ -205,8 +205,8 @@
         "comuna":"Chiguayante",
         "telefono": 312454,
         "email": " asd",
-        "nacionalidad": "Chileno",
-        "foto": "fotos/mujer2.webp",
+        "nacionalidad": "Chilena",
+        "foto": "fotos/lamujer3.avif",
         "profesion": null
     },
     {
@@ -219,8 +219,8 @@
         "comuna":"Chiguayante",
         "telefono": 312454,
         "email": " asd",
-        "nacionalidad": "Chileno",
-        "foto": "fotos/mujer2.webp",
+        "nacionalidad": "Chilena",
+        "foto": "fotos/lamujer2.jpg",
         "profesion": null
     },
     {
@@ -233,8 +233,8 @@
         "comuna":"Chiguayante",
         "telefono": 312454,
         "email": " asd",
-        "nacionalidad": "Chileno",
-        "foto": "fotos/mujer2.webp",
+        "nacionalidad": "Chilena",
+        "foto": "fotos/lamujer1.avif",
         "profesion": null
     },
     {
@@ -247,36 +247,36 @@
         "comuna":"Chiguayante",
         "telefono": 312454,
         "email": " asd",
-        "nacionalidad": "Chileno",
-        "foto": "fotos/mujer2.webp",
+        "nacionalidad": "Chilena",
+        "foto": "fotos/mujer6.jpg",
         "profesion": null
     },
     {
         "rut":"22.412.926-1",
-        "nombre":"Catalina",
-        "apellido":"Reyes",
+        "nombre":"Marcos",
+        "apellido":"Gonzales",
         "fecha_nacimiento":"2006-01-12",
-        "genero":"Femenino",
+        "genero":"Masculino",
         "direccion":"Calle Fernanfloo 421",
         "comuna":"Chiguayante",
         "telefono": 312454,
         "email": " asd",
-        "nacionalidad": "Chileno",
-        "foto": "fotos/mujer2.webp",
+        "nacionalidad": "Chilena",
+        "foto": "fotos/hombre5.webp",
         "profesion": null
     },
     {
         "rut":"22.412.926-1",
-        "nombre":"Fernanda",
-        "apellido":"Dominguez",
+        "nombre":"Ibai",
+        "apellido":"Llanos",
         "fecha_nacimiento":"2006-01-12",
-        "genero":"Femenino",
+        "genero":"Masculino",
         "direccion":"Calle Fernanfloo 421",
         "comuna":"Chiguayante",
         "telefono": 312454,
         "email": " asd",
-        "nacionalidad": "Chileno",
-        "foto": "fotos/mujer2.webp",
+        "nacionalidad": "Chilena",
+        "foto": "fotos/hombre4.webp",
         "profesion": null
     }
     
