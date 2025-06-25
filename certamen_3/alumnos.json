@@ -10,7 +10,7 @@
         "telefono": 312454,
         "email": "asd",
         "nacionalidad": "Chileno",
-        "foto": "fotos/mujer"
+        "foto": "fotos/carlos.jpg"
     },
     {
         "rut":"22.423.466-3",
@@ -58,7 +58,8 @@
         "comuna":"Chiguayante",
         "telefono": 312454,
         "email": " asd",
-        "nacionalidad": "Chileno"
+        "nacionalidad": "Chileno",
+        "foto": "fotos/mujer2.webp"
     }
     
 ]
