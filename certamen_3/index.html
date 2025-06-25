@@ -15,19 +15,7 @@
         <div class="row" id="alumno-list">
 
         </div>
-        <div class="modal" tabindex="-1" id="alumnoModal">
-            <div class="modal-dialog">
-              <div class="modal-content">
-                <div class="modal-header">
-                  <h5 class="modal-title" id="alumnoModalLabel">Detalle del Alumno</h5>
-                  <button type="button" class="btn-close" data-bs-dismiss="modal" aria-label="Close"></button>
-                </div>
-                <div class="modal-body" id="modal-content">
-                  <p>Cargando...</p>
-                </div>
-              </div>
-            </div>
-          </div>
+        
     </div>
     <script>
         async function obtenerListadoAlumnos(){
@@ -40,7 +28,20 @@
             alumnos.forEach((alumno,index)=> {
                 const col = document.createElement('div');
                 col.className ='col-6 col-md-4 col-lg-3 mb-2'
-                col.innerHTML = `<button class="btn btn-outline-primary w-100 text-capitalize" onclick='mostrarDetalles(${JSON.stringify(alumno)})'> ${alumno.nombre}</button>`
+                col.innerHTML = `<div class="card" style="width: 18rem;">
+                <img src="..." class="card-img-top" alt="...">
+                <div class="card-body">
+                <h5 class="card-title">${alumno.nombre}</h5>
+                <p> <b> RUT: </b> ${alumno.rut} </p>
+                <p> <b> Fecha de Nacimiento: </b> ${alumno.fecha_nacimiento} </p>
+                <p> <b> Género: </b> ${alumno.genero} </p>
+                <p> <b> Dirección: </b> ${alumno.direccion} </p>
+                <p> <b> Comuna: </b> ${alumno.comuna} </p>
+                <p> <b> Teléfono: </b> ${alumno.telefono} </p>
+                <p> <b> Email: </b> ${alumno.email} </p>
+                <p> <b> nacionalidad: </b> ${alumno.nacionalidad} </p>
+              </div>
+    </div>`
                 listContainer.appendChild(col);
             }
 
