@@ -22,7 +22,8 @@
         "comuna":"Hualpen",
         "telefono": 312454,
         "email": " asd",
-        "nacionalidad": "Chileno"
+        "nacionalidad": "Chileno",
+        "foto": "fotos/carlos.jpg"
     },
     {
         "rut":"11.267.438-2",
@@ -34,7 +35,8 @@
         "comuna":"Concepción",
         "telefono": 312454,
         "email": " asd",
-        "nacionalidad": "Chileno"
+        "nacionalidad": "Chileno",
+        "foto": "fotos/carlos.jpg"
     },
     {
         "rut":"20.845.978-9",
@@ -46,7 +48,8 @@
         "comuna":"Talcahuano",
         "telefono": 312454,
         "email": " asd",
-        "nacionalidad": "Chileno"
+        "nacionalidad": "Chileno",
+        "foto": "fotos/mujer.avif"
     },
     {
         "rut":"22.412.926-1",
