@@ -10,7 +10,8 @@
         "telefono": 987238432,
         "email": "carlitoelpro777@gmail.com",
         "nacionalidad": "Chileno",
-        "foto": "fotos/carlos.jpg"
+        "foto": "fotos/carlos.jpg",
+        "profesion": null
     },
     {
         "rut":"22.423.466-3",
@@ -23,7 +24,8 @@
         "telefono": 987654654,
         "email": "ricarditohola@gmail.com",
         "nacionalidad": "Chileno",
-        "foto": "fotos/carlos.jpg"
+        "foto": "fotos/hombre2.jpg",
+        "profesion": null
     },
     {
         "rut":"11.267.438-2",
@@ -36,7 +38,8 @@
         "telefono": 312454,
         "email": "pduran1250@gmail.com",
         "nacionalidad": "Chileno",
-        "foto": "fotos/carlos.jpg"
+        "foto": "fotos/hombre3.jpg",
+        "profesion": null
     },
     {
         "rut":"20.845.978-9",
@@ -49,12 +52,13 @@
         "telefono": 312454,
         "email": "fmunoz@gmail.com",
         "nacionalidad": "Chilena",
-        "foto": "fotos/mujer.png"
+        "foto": "fotos/mujer.png",
+        "profesion": null
     },
     {
         "rut":"22.412.926-1",
-        "nombre":"Camila",
-        "apellido":"Sepulveda",
+        "nombre":"Millaray",
+        "apellido":"Troncoso",
         "fecha_nacimiento":"2006-01-12",
         "genero":"Femenino",
         "direccion":"Calle Fernanfloo 421",
@@ -62,7 +66,8 @@
         "telefono": 312454,
         "email": "csepulveda432@gmail.com",
         "nacionalidad": "Chilena",
-        "foto": "fotos/mujer2.webp"
+        "foto": "fotos/mujer2.webp",
+        "profesion": null
     },
     {
         "rut":"18.344.765-2",
@@ -75,7 +80,8 @@
         "telefono": 312454,
         "email": " asd",
         "nacionalidad": "Chileno",
-        "foto": "fotos/hombre.jpg"
+        "foto": "fotos/hombre.jpg",
+        "profesion": null
     },
     {
         "rut":"17.234.532",
@@ -88,7 +94,8 @@
         "telefono": 927364854,
         "email": "jromero@gmail.com",
         "nacionalidad":"Chileno",
-        "foto": "fotos/mujer2.webp"
+        "foto": "fotos/mujer2.webp",
+        "profesion": null
     },
     {
         "rut":"24.212.786-1",
@@ -101,7 +108,8 @@
         "telefono": 312454,
         "email": "cdelgado@gmail.com",
         "nacionalidad": "Peruano",
-        "foto": "fotos/mujer2.webp"
+        "foto": "fotos/hombre.jpg",
+        "profesion": null
     },
     {
         "rut":"20.112.926-5",
@@ -114,7 +122,8 @@
         "telefono": 924852734,
         "email": "martinams2000@gmail.com",
         "nacionalidad": "Argentina",
-        "foto": "fotos/mujer2.webp"
+        "foto": "fotos/mujer2.webp",
+        "profesion": null
     },
     {
         "rut":"22.412.926-1",
@@ -127,12 +136,13 @@
         "telefono": 312454,
         "email": " asd",
         "nacionalidad": "Chileno",
-        "foto": "fotos/mujer2.webp"
+        "foto": "fotos/mujer2.webp",
+        "profesion": null
     },
     {
         "rut":"22.412.926-1",
-        "nombre":"Camila",
-        "apellido":"Sepulveda",
+        "nombre":"Patricia",
+        "apellido":"Burgos",
         "fecha_nacimiento":"2006-01-12",
         "genero":"Femenino",
         "direccion":"Calle Fernanfloo 421",
@@ -140,12 +150,13 @@
         "telefono": 312454,
         "email": " asd",
         "nacionalidad": "Chileno",
-        "foto": "fotos/mujer2.webp"
+        "foto": "fotos/mujer2.webp",
+        "profesion": null
     },
     {
         "rut":"22.412.926-1",
-        "nombre":"Camila",
-        "apellido":"Sepulveda",
+        "nombre":"Ignacia",
+        "apellido":"Gutierrez",
         "fecha_nacimiento":"2006-01-12",
         "genero":"Femenino",
         "direccion":"Calle Fernanfloo 421",
@@ -153,12 +164,13 @@
         "telefono": 312454,
         "email": " asd",
         "nacionalidad": "Chileno",
-        "foto": "fotos/mujer2.webp"
+        "foto": "fotos/mujer2.webp",
+        "profesion": null
     },
     {
         "rut":"22.412.926-1",
-        "nombre":"Camila",
-        "apellido":"Sepulveda",
+        "nombre":"Javiera",
+        "apellido":"Monsalves",
         "fecha_nacimiento":"2006-01-12",
         "genero":"Femenino",
         "direccion":"Calle Fernanfloo 421",
@@ -166,12 +178,13 @@
         "telefono": 312454,
         "email": " asd",
         "nacionalidad": "Chileno",
-        "foto": "fotos/mujer2.webp"
+        "foto": "fotos/mujer2.webp",
+        "profesion": null
     },
     {
         "rut":"22.412.926-1",
-        "nombre":"Camila",
-        "apellido":"Sepulveda",
+        "nombre":"Tamara",
+        "apellido":"Delgado",
         "fecha_nacimiento":"2006-01-12",
         "genero":"Femenino",
         "direccion":"Calle Fernanfloo 421",
@@ -179,12 +192,13 @@
         "telefono": 312454,
         "email": " asd",
         "nacionalidad": "Chileno",
-        "foto": "fotos/mujer2.webp"
+        "foto": "fotos/mujer2.webp",
+        "profesion": null
     },
     {
         "rut":"22.412.926-1",
-        "nombre":"Camila",
-        "apellido":"Sepulveda",
+        "nombre":"Silvia",
+        "apellido":"Lagos",
         "fecha_nacimiento":"2006-01-12",
         "genero":"Femenino",
         "direccion":"Calle Fernanfloo 421",
@@ -192,12 +206,13 @@
         "telefono": 312454,
         "email": " asd",
         "nacionalidad": "Chileno",
-        "foto": "fotos/mujer2.webp"
+        "foto": "fotos/mujer2.webp",
+        "profesion": null
     },
     {
         "rut":"22.412.926-1",
-        "nombre":"Camila",
-        "apellido":"Sepulveda",
+        "nombre":"Romina",
+        "apellido":"Fuentes",
         "fecha_nacimiento":"2006-01-12",
         "genero":"Femenino",
         "direccion":"Calle Fernanfloo 421",
@@ -205,12 +220,13 @@
         "telefono": 312454,
         "email": " asd",
         "nacionalidad": "Chileno",
-        "foto": "fotos/mujer2.webp"
+        "foto": "fotos/mujer2.webp",
+        "profesion": null
     },
     {
         "rut":"22.412.926-1",
-        "nombre":"Camila",
-        "apellido":"Sepulveda",
+        "nombre":"Macarena",
+        "apellido":"Ceballos",
         "fecha_nacimiento":"2006-01-12",
         "genero":"Femenino",
         "direccion":"Calle Fernanfloo 421",
@@ -218,12 +234,13 @@
         "telefono": 312454,
         "email": " asd",
         "nacionalidad": "Chileno",
-        "foto": "fotos/mujer2.webp"
+        "foto": "fotos/mujer2.webp",
+        "profesion": null
     },
     {
         "rut":"22.412.926-1",
-        "nombre":"Camila",
-        "apellido":"Sepulveda",
+        "nombre":"Milenka",
+        "apellido":"Rodriguez",
         "fecha_nacimiento":"2006-01-12",
         "genero":"Femenino",
         "direccion":"Calle Fernanfloo 421",
@@ -231,12 +248,13 @@
         "telefono": 312454,
         "email": " asd",
         "nacionalidad": "Chileno",
-        "foto": "fotos/mujer2.webp"
+        "foto": "fotos/mujer2.webp",
+        "profesion": null
     },
     {
         "rut":"22.412.926-1",
-        "nombre":"Camila",
-        "apellido":"Sepulveda",
+        "nombre":"Catalina",
+        "apellido":"Reyes",
         "fecha_nacimiento":"2006-01-12",
         "genero":"Femenino",
         "direccion":"Calle Fernanfloo 421",
@@ -244,12 +262,13 @@
         "telefono": 312454,
         "email": " asd",
         "nacionalidad": "Chileno",
-        "foto": "fotos/mujer2.webp"
+        "foto": "fotos/mujer2.webp",
+        "profesion": null
     },
     {
         "rut":"22.412.926-1",
-        "nombre":"Camila",
-        "apellido":"Sepulveda",
+        "nombre":"Fernanda",
+        "apellido":"Dominguez",
         "fecha_nacimiento":"2006-01-12",
         "genero":"Femenino",
         "direccion":"Calle Fernanfloo 421",
@@ -257,7 +276,8 @@
         "telefono": 312454,
         "email": " asd",
         "nacionalidad": "Chileno",
-        "foto": "fotos/mujer2.webp"
+        "foto": "fotos/mujer2.webp",
+        "profesion": null
     }
     
 ]
