@@ -28,10 +28,10 @@
                 const col = document.createElement('div');
                 col.className ='col-6 col-md-4 col-lg-3 col-xs-2 mb-2'
                 col.innerHTML = `
-                <div class="card my-2" style="width: 18rem;">
+                <div class="card my-2 shadow bg-body-tertiary rounded" style="width: 18rem;">
                     <img src="${alumno.foto}" class="w-100" alt="..." height="300">
                     <div class="card-body">
-                        <h5 class="card-title pb-2">${alumno.nombre} ${alumno.apellido}</h5>
+                        <h5 class="card-title pb-2"><b>${alumno.nombre} ${alumno.apellido}</b></h5>
                         <h6> <b> RUT: </b> <span>${alumno.rut}</span> </h6>
                         <h6> <b> Fecha de Nacimiento: </b> <span>${alumno.fecha_nacimiento}</span> </h6>
                         <h6> <b> Género: </b> <span>${alumno.genero}</span> </h6>
