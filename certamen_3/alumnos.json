@@ -11,7 +11,7 @@
         "email": "carlitoelpro777@gmail.com",
         "nacionalidad": "Chilena",
         "foto": "fotos/carlos.jpg",
-        "profesion": null
+        "carrera": "Periodismo"
     },
     {
         "rut":"22.423.466-3",
@@ -25,7 +25,7 @@
         "email": "ricarditohola@gmail.com",
         "nacionalidad": "Chilena",
         "foto": "fotos/ricardo1.webp",
-        "profesion": null
+        "carrera": "Técnico en Informática"
     },
     {
         "rut":"11.267.438-2",
@@ -39,7 +39,7 @@
         "email": "pduran1250@gmail.com",
         "nacionalidad": "Chilena",
         "foto": "fotos/hombre3.jpg",
-        "profesion": null
+        "carrera": "Ingeniería en Electricidad"
     },
     {
         "rut":"20.845.978-9",
@@ -53,7 +53,7 @@
         "email": "fmunoz@gmail.com",
         "nacionalidad": "Chilena",
         "foto": "fotos/mujer3.webp",
-        "profesion": null
+        "carrera": "Pedadogía en Matemáticas"
     },
     {
         "rut":"22.412.926-1",
@@ -67,7 +67,7 @@
         "email": "csepulveda432@gmail.com",
         "nacionalidad": "Chilena",
         "foto": "fotos/mujer2.webp",
-        "profesion": null
+        "carrera": "Enfermería"
     },
     {
         "rut":"18.344.765-2",
@@ -81,7 +81,7 @@
         "email": " asd",
         "nacionalidad": "Chilena",
         "foto": "fotos/samuel1.webp",
-        "profesion": null
+        "carrera": "Periodismo"
     },
     {
         "rut":"17.234.532",
@@ -95,7 +95,7 @@
         "email": "jromero@gmail.com",
         "nacionalidad":"Chilena",
         "foto": "fotos/hombre.jpg",
-        "profesion": null
+        "carrera": "Periodismo"
     },
     {
         "rut":"24.212.786-1",
@@ -109,7 +109,7 @@
         "email": "cdelgado@gmail.com",
         "nacionalidad": "Peruano",
         "foto": "fotos/johnpork.webp",
-        "profesion": null
+        "carrera": "Periodismo"
     },
     {
         "rut":"20.112.926-5",
@@ -123,7 +123,7 @@
         "email": "martinams2000@gmail.com",
         "nacionalidad": "Argentina",
         "foto": "fotos/mujer4.webp",
-        "profesion": null
+        "carrera": "Periodismo"
     },
     {
         "rut":"22.412.926-1",
@@ -137,7 +137,7 @@
         "email": " asd",
         "nacionalidad": "Chilena",
         "foto": "fotos/mujer5.webp",
-        "profesion": null
+        "carrera": "Periodismo"
     },
     {
         "rut":"22.412.926-1",
@@ -151,7 +151,7 @@
         "email": " asd",
         "nacionalidad": "Chilena",
         "foto": "fotos/lamujer7.jpg",
-        "profesion": null
+        "carrera": "Periodismo"
     },
     {
         "rut":"22.412.926-1",
@@ -165,7 +165,7 @@
         "email": " asd",
         "nacionalidad": "Chilena",
         "foto": "fotos/lamujer6.jpg",
-        "profesion": null
+        "carrera": "Periodismo"
     },
     {
         "rut":"22.412.926-1",
@@ -179,7 +179,7 @@
         "email": " asd",
         "nacionalidad": "Chilena",
         "foto": "fotos/lamujer5.webp",
-        "profesion": null
+        "carrera": "Periodismo"
     },
     {
         "rut":"22.412.926-1",
@@ -193,7 +193,7 @@
         "email": " asd",
         "nacionalidad": "Chilena",
         "foto": "fotos/lamujer4.webp",
-        "profesion": null
+        "carrera": "Periodismo"
     },
     {
         "rut":"22.412.926-1",
@@ -207,7 +207,7 @@
         "email": " asd",
         "nacionalidad": "Chilena",
         "foto": "fotos/lamujer3.avif",
-        "profesion": null
+        "carrera": "Periodismo"
     },
     {
         "rut":"22.412.926-1",
@@ -221,7 +221,7 @@
         "email": " asd",
         "nacionalidad": "Chilena",
         "foto": "fotos/lamujer2.jpg",
-        "profesion": null
+        "carrera": "Periodismo"
     },
     {
         "rut":"22.412.926-1",
@@ -235,7 +235,7 @@
         "email": " asd",
         "nacionalidad": "Chilena",
         "foto": "fotos/lamujer1.avif",
-        "profesion": null
+        "carrera": "Periodismo"
     },
     {
         "rut":"22.412.926-1",
@@ -249,7 +249,7 @@
         "email": " asd",
         "nacionalidad": "Chilena",
         "foto": "fotos/mujer6.jpg",
-        "profesion": null
+        "carrera": "Periodismo"
     },
     {
         "rut":"22.412.926-1",
@@ -263,7 +263,7 @@
         "email": " asd",
         "nacionalidad": "Chilena",
         "foto": "fotos/hombre5.webp",
-        "profesion": null
+        "carrera": "Periodismo"
     },
     {
         "rut":"22.412.926-1",
@@ -277,7 +277,7 @@
         "email": " asd",
         "nacionalidad": "Chilena",
         "foto": "fotos/hombre4.webp",
-        "profesion": null
+        "carrera": "Periodismo"
     }
     
 ]
